@@ -6,7 +6,7 @@ Open index.html in your broswer, the Jasmine platform will run some tests on the
 
 ## Tests
 
-The jasmine test suite will run through the following tests:
+The Jasmine test suite will run through the following tests:
 
 - Test to see that allFeeds object is not empty, has a defined name, which is also not empty and is a string.
 - Test to see that the menu element is hidden on opening the page.
